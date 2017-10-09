@@ -11,7 +11,13 @@ print("##########################################")
 print("[*] Coded By S1L3N7")
 print("[*] Contact Email : mraidi.amzar@gmail.com")
 print("[*] INSTAGRAM : @Silent_anons [other is fake]")
-print("##########################################")
+print("[*] Greetz to admin of Hacker Patah Hati [Mr.Cr07 
+Abenk#007 
+Mr.HTTP
+Mr.CO71.503
+MR.H3LL_NET]")
+print("[*] And Greetz to All HACKER MEMBER OF HACKER PATAH HATI")
+print("#####Call me Silent [S1L3N7]#############################")
  
  
 def restart_program():
