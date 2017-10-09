@@ -1,4 +1,6 @@
 
+
+
  
 import time
 import socket
@@ -10,14 +12,9 @@ import string
 print("##########################################")
 print("[*] Coded By S1L3N7")
 print("[*] Contact Email : mraidi.amzar@gmail.com")
-print("[*] INSTAGRAM : @Silent_anons [other is fake]")
-print("[*] Greetz to admin of Hacker Patah Hati [Mr.Cr07 
-Abenk#007 
-Mr.HTTP
-Mr.CO71.503
-MR.H3LL_NET]")
-print("[*] And Greetz to All HACKER MEMBER OF HACKER PATAH HATI")
-print("#####Call me Silent [S1L3N7]#############################")
+print("[*] INSTAGRAM: @Silent_anons [other is fake]")
+print("[*] thanks to Mr.HTTP")
+print("#########################################")
  
  
 def restart_program():
@@ -26,7 +23,7 @@ def restart_program():
 curdir = os.getcwd()
  
 
-print("Welcome To Anonymous Ddos. Create by S1L3N7")
+print("Welcome To Anonymous Arabe DDoser Tool !")
 raw_input("Press Enter To Continue")
 print ("DDos mode loaded")
 
